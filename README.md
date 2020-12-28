@@ -66,3 +66,13 @@ cmake ..
 make
 ./game_main
 ```
+
+# Audio Files Attribution
+All the audio files used in this project are are copyright free under "Personal Use" or "Attribution 3.0".
+
+1. Click-SoundBible.com-1387633738			    http://soundbible.com/783-Click.html		    Attribution 3.0
+2. Click2-Sebastian-759472264.wav			    http://soundbible.com/1705-Click2.html		    Attribution 3.0
+3. Bomb 2-SoundBible.com-953367492.wav		    http://soundbible.com/476-Bomb-2.html		    Personal Use Only
+4. Water Splash-SoundBible.com-800223477.wav	http://soundbible.com/1460-Water-Splash.html	Attribution 3.0
+5. Upper Cut-SoundBible.com-1272257235.wav		http://soundbible.com/993-Upper-Cut.html	    Attribution 3.0
+6. Ta Da-SoundBible.com-1884170640			    http://soundbible.com/1003-Ta-Da.html		    Attribution 3.0
