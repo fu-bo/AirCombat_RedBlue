@@ -57,7 +57,7 @@ g++ -std=c++11 yssimplesound.cpp yssimplesound_macosx_cpp.cpp yssimplesound_maco
 ./game.app/Contents/MacOS/exe
 ```
 ## In Linux
-You can build in linux as follows, but the audio might not function normally. And the graphis does not have an outline.
+You can build in linux as follows. But the audio might not function normally. And the aircrafts do not have outlines.
 ```bash
 mkdir build
 cp -r data build
